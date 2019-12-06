@@ -1,0 +1,202 @@
+[
+  {
+    "State": "Alabama",
+    "RoadMilesPerSquareMile": 4.16
+  },
+  {
+    "State": "Alaska",
+    "RoadMilesPerSquareMile": 0.06
+  },
+  {
+    "State": "Arizona",
+    "RoadMilesPerSquareMile": 1.28
+  },
+  {
+    "State": "Arkansas",
+    "RoadMilesPerSquareMile": 4.04
+  },
+  {
+    "State": "California",
+    "RoadMilesPerSquareMile": 2.53
+  },
+  {
+    "State": "Colorado",
+    "RoadMilesPerSquareMile": 1.78
+  },
+  {
+    "State": "Connecticut",
+    "RoadMilesPerSquareMile": 9.46
+  },
+  {
+    "State": "Delaware",
+    "RoadMilesPerSquareMile": 7.14
+  },
+  {
+    "State": "Florida",
+    "RoadMilesPerSquareMile": 5.08
+  },
+  {
+    "State": "Georgia",
+    "RoadMilesPerSquareMile": 4.7
+  },
+  {
+    "State": "Hawaii",
+    "RoadMilesPerSquareMile": 1.52
+  },
+  {
+    "State": "Idaho",
+    "RoadMilesPerSquareMile": 1.3
+  },
+  {
+    "State": "Illinois",
+    "RoadMilesPerSquareMile": 5.52
+  },
+  {
+    "State": "Indiana",
+    "RoadMilesPerSquareMile": 5.64
+  },
+  {
+    "State": "Iowa",
+    "RoadMilesPerSquareMile": 4.21
+  },
+  {
+    "State": "Kansas",
+    "RoadMilesPerSquareMile": 3.54
+  },
+  {
+    "State": "Kentucky",
+    "RoadMilesPerSquareMile": 4.2
+  },
+  {
+    "State": "Louisiana",
+    "RoadMilesPerSquareMile": 2.99
+  },
+  {
+    "State": "Maine",
+    "RoadMilesPerSquareMile": 1.52
+  },
+  {
+    "State": "Maryland",
+    "RoadMilesPerSquareMile": 7.24
+  },
+  {
+    "State": "Massachusetts",
+    "RoadMilesPerSquareMile": 9.89
+  },
+  {
+    "State": "Michigan",
+    "RoadMilesPerSquareMile": 4.53
+  },
+  {
+    "State": "Minnesota",
+    "RoadMilesPerSquareMile": 3.6
+  },
+  {
+    "State": "Mississippi",
+    "RoadMilesPerSquareMile": 3.45
+  },
+  {
+    "State": "Missouri",
+    "RoadMilesPerSquareMile": 4.01
+  },
+  {
+    "State": "Montana",
+    "RoadMilesPerSquareMile": 1.03
+  },
+  {
+    "State": "Nebraska",
+    "RoadMilesPerSquareMile": 2.52
+  },
+  {
+    "State": "Nevada",
+    "RoadMilesPerSquareMile": 0.93
+  },
+  {
+    "State": "New Hampshire",
+    "RoadMilesPerSquareMile": 3.72
+  },
+  {
+    "State": "New Jersey",
+    "RoadMilesPerSquareMile": 11.46
+  },
+  {
+    "State": "New Mexico",
+    "RoadMilesPerSquareMile": 1.32
+  },
+  {
+    "State": "New York",
+    "RoadMilesPerSquareMile": 5.08
+  },
+  {
+    "State": "North Carolina",
+    "RoadMilesPerSquareMile": 4.67
+  },
+  {
+    "State": "North Dakota",
+    "RoadMilesPerSquareMile": 2.58
+  },
+  {
+    "State": "Ohio",
+    "RoadMilesPerSquareMile": 6.41
+  },
+  {
+    "State": "Oklahoma",
+    "RoadMilesPerSquareMile": 3.42
+  },
+  {
+    "State": "Oregon",
+    "RoadMilesPerSquareMile": 1.69
+  },
+  {
+    "State": "Pennsylvania",
+    "RoadMilesPerSquareMile": 5.61
+  },
+  {
+    "State": "Rhode Island",
+    "RoadMilesPerSquareMile": 12.32
+  },
+  {
+    "State": "South Carolina",
+    "RoadMilesPerSquareMile": 5.4
+  },
+  {
+    "State": "South Dakota",
+    "RoadMilesPerSquareMile": 2.21
+  },
+  {
+    "State": "Tennessee",
+    "RoadMilesPerSquareMile": 4.94
+  },
+  {
+    "State": "Texas",
+    "RoadMilesPerSquareMile": 2.6
+  },
+  {
+    "State": "Utah",
+    "RoadMilesPerSquareMile": 1.26
+  },
+  {
+    "State": "Vermont",
+    "RoadMilesPerSquareMile": 3.17
+  },
+  {
+    "State": "Virginia",
+    "RoadMilesPerSquareMile": 4.13
+  },
+  {
+    "State": "Washington",
+    "RoadMilesPerSquareMile": 2.51
+  },
+  {
+    "State": "West Virginia",
+    "RoadMilesPerSquareMile": 3.33
+  },
+  {
+    "State": "Wisconsin",
+    "RoadMilesPerSquareMile": 4.4
+  },
+  {
+    "State": "Wyoming",
+    "RoadMilesPerSquareMile": 0.65
+  }
+]
